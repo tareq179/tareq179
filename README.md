@@ -3,7 +3,8 @@
 ### Hi there 👋, I'm Tareq
 #### I am Web Developer
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+Experienced Web Developer with a demonstrated history of working in the program development industry. Skilled in Adobe Photoshop, Github, Bootstrap, Cascading Style Sheets (CSS), and MongoDB.
+
 
 Skills: REACT / JS / HTML / CSS/MERN Stack
 
