@@ -12,6 +12,3 @@ Skills: REACT / JS / HTML / CSS/MERN Stack
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/tareq179)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/tareq179/)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/tareq179)  
-
-![Profile views](https://gpvc.arturio.dev/https://github.com/tareq179)  
